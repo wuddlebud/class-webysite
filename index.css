@@ -1,0 +1,16 @@
+h1 {
+    color: #ffd000;
+    font-family:Arial, Helvetica, sans-serif
+}
+p {
+    color: hsl(98, 78%, 52%);
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* commwent */
+
+.responses { font-family:'Times New Roman', Times, serif;
+    color: hsl(225, 84%, 34%);
+}
